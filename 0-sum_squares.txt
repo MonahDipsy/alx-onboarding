@@ -1,0 +1,8 @@
+Start
+Sum=0
+PRINT=” Input numbers”;
+x, y, z;
+Square of numbers is:(x*x), (y*y), (z*z);
+Sum of square=sum+(x*x) +(y*y) +(z*z);
+PRINT “Sum”	
+End
